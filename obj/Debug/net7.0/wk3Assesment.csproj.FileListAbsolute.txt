@@ -1,0 +1,17 @@
+C:\Users\lenovo\desktop\.NET\wk3Assesment\bin\Debug\net7.0\wk3Assesment.exe
+C:\Users\lenovo\desktop\.NET\wk3Assesment\bin\Debug\net7.0\wk3Assesment.deps.json
+C:\Users\lenovo\desktop\.NET\wk3Assesment\bin\Debug\net7.0\wk3Assesment.runtimeconfig.json
+C:\Users\lenovo\desktop\.NET\wk3Assesment\bin\Debug\net7.0\wk3Assesment.dll
+C:\Users\lenovo\desktop\.NET\wk3Assesment\bin\Debug\net7.0\wk3Assesment.pdb
+C:\Users\lenovo\desktop\.NET\wk3Assesment\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\lenovo\desktop\.NET\wk3Assesment\obj\Debug\net7.0\wk3Assesment.csproj.AssemblyReference.cache
+C:\Users\lenovo\desktop\.NET\wk3Assesment\obj\Debug\net7.0\wk3Assesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\desktop\.NET\wk3Assesment\obj\Debug\net7.0\wk3Assesment.AssemblyInfoInputs.cache
+C:\Users\lenovo\desktop\.NET\wk3Assesment\obj\Debug\net7.0\wk3Assesment.AssemblyInfo.cs
+C:\Users\lenovo\desktop\.NET\wk3Assesment\obj\Debug\net7.0\wk3Assesment.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\desktop\.NET\wk3Assesment\obj\Debug\net7.0\wk3Assesment.csproj.CopyComplete
+C:\Users\lenovo\desktop\.NET\wk3Assesment\obj\Debug\net7.0\wk3Assesment.dll
+C:\Users\lenovo\desktop\.NET\wk3Assesment\obj\Debug\net7.0\refint\wk3Assesment.dll
+C:\Users\lenovo\desktop\.NET\wk3Assesment\obj\Debug\net7.0\wk3Assesment.pdb
+C:\Users\lenovo\desktop\.NET\wk3Assesment\obj\Debug\net7.0\wk3Assesment.genruntimeconfig.cache
+C:\Users\lenovo\desktop\.NET\wk3Assesment\obj\Debug\net7.0\ref\wk3Assesment.dll
